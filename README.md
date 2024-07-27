@@ -1,6 +1,10 @@
 # Object-detection
 
-This code implements a Faster R-CNN model for object detection on the Aquarium dataset. Here's a breakdown of the code and explanations for each section:
+This code implements a Faster R-CNN model for object detection on the Aquarium dataset. I learn object detection using Fasterrcnn in this manner
+
+
+Here's a breakdown of the code and explanations for each section,
+
 
 
 
