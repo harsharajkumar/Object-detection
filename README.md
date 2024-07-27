@@ -1,2 +1,5 @@
 # Object-detection-
-Object detection  using fasterrcnn
+
+
+#Dataset taken from kaggle
+https://www.kaggle.com/code/pdochannel/object-detection-fasterrcnn-tutorial/input
